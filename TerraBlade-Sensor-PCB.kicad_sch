@@ -197,193 +197,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "2.54-1*4P母_2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H1"
-				(at -3.0226 11.1125 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "2.54-1*4P母"
-				(at -3.0226 8.8011 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part" "2.54-1*4P母"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "BOOMELE(博穆精密)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier Part" "C2718488"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2.54-1*4P母_2_0_0"
-				(rectangle
-					(start -2.54 6.35)
-					(end 2.54 -6.35)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 5.08)
-					(radius 0.254)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "2.54-1*4P母_2_1_0"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 1.27 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -1.27 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -3.81 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "2.54-1*4P母_3"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -847,193 +660,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Custom:2.54-1*4P母"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H1"
-				(at -3.0226 11.1125 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "2.54-1*4P母"
-				(at -3.0226 8.8011 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part" "2.54-1*4P母"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "BOOMELE(博穆精密)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier Part" "C2718488"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2.54-1*4P母_0_0"
-				(rectangle
-					(start -2.54 6.35)
-					(end 2.54 -6.35)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 5.08)
-					(radius 0.254)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "2.54-1*4P母_1_0"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 1.27 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -1.27 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -3.81 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Custom:BladePad"
 			(pin_names
 				(offset 1.016)
@@ -1428,193 +1054,6 @@
 						(effects
 							(font
 								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Custom:PZ254V-11-04P_C2691448"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H1"
-				(at -3.0226 11.1125 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "PZ254V-11-04P_C2691448"
-				(at -3.0226 8.8011 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part" "PZ254V-11-04P"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "XFCN(兴飞)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier Part" "C2691448"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PZ254V-11-04P_C2691448_0_0"
-				(rectangle
-					(start -2.54 6.35)
-					(end 2.54 -6.35)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 5.08)
-					(radius 0.254)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "PZ254V-11-04P_C2691448_1_0"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 1.27 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -1.27 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -3.81 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
 							)
 						)
 					)
@@ -2190,193 +1629,6 @@
 				)
 			)
 			(symbol "PZ254V-11-04P_C2691448_1_1_0"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 1.27 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -1.27 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -3.81 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "PZ254V-11-04P_C2691448_2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H1"
-				(at -3.0226 11.1125 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "PZ254V-11-04P_C2691448"
-				(at -3.0226 8.8011 0)
-				(effects
-					(font
-						(face "Arial")
-						(size 1.6891 1.6891)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part" "PZ254V-11-04P"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "XFCN(兴飞)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier Part" "C2691448"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PZ254V-11-04P_C2691448_2_0_0"
-				(rectangle
-					(start -2.54 6.35)
-					(end 2.54 -6.35)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 5.08)
-					(radius 0.254)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "PZ254V-11-04P_C2691448_2_1_0"
 				(pin passive line
 					(at -5.08 3.81 0)
 					(length 2.54)
@@ -3092,137 +2344,6 @@
 						)
 					)
 					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "SensorBlade:SensorBlade"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "BLADE"
-				(at 2.54 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SensorBlade"
-				(at 2.54 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Custom:SensorBlade_Tenon"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Capacitive Soil Moisture Blade"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SensorBlade_0_1"
-				(polyline
-					(pts
-						(xy -3.81 -2.54) (xy 3.81 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 2.54) (xy -1.27 -2.54)
-					)
-					(stroke
-						(width 0.508)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 2.54) (xy 1.27 -2.54)
-					)
-					(stroke
-						(width 0.508)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SensorBlade_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "SIGNAL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4159,16 +3280,8 @@
 		(uuid "f39d84e5-12d7-435d-bb15-85d71d35e98b")
 	)
 	(no_connect
-		(at 128.27 152.4)
+		(at 175.26 152.4)
 		(uuid "0462a61c-7af6-442b-bbda-49fc40c1097b")
-	)
-	(no_connect
-		(at 207.01 147.32)
-		(uuid "0b27db19-a799-44b1-ba65-ad07d67cb953")
-	)
-	(no_connect
-		(at 167.64 152.4)
-		(uuid "22415237-5e9e-40c0-9292-c90fb368b4ab")
 	)
 	(no_connect
 		(at 104.14 54.61)
@@ -4187,28 +3300,20 @@
 		(uuid "4154aee6-5735-468e-b2fd-1bf24752cabd")
 	)
 	(no_connect
-		(at 128.27 149.86)
+		(at 175.26 149.86)
 		(uuid "4dc1dab6-a2ae-42b6-8992-e0390bccad45")
 	)
 	(no_connect
-		(at 128.27 144.78)
+		(at 175.26 144.78)
 		(uuid "5379477f-ec03-4df6-8198-791c748090da")
 	)
 	(no_connect
-		(at 207.01 149.86)
-		(uuid "5862a663-02f5-4c4b-9aa8-d4b7f54498ef")
-	)
-	(no_connect
-		(at 87.63 152.4)
+		(at 134.62 152.4)
 		(uuid "685fbfca-9b34-4c08-b3f5-6846b4eb1b23")
 	)
 	(no_connect
 		(at 104.14 77.47)
 		(uuid "745b9599-5043-4ddf-bdea-137bd84f5f1d")
-	)
-	(no_connect
-		(at 167.64 144.78)
-		(uuid "79135fdd-1dbb-43fb-ba3a-544bf6a22b77")
 	)
 	(no_connect
 		(at 85.09 35.56)
@@ -4227,7 +3332,7 @@
 		(uuid "a2580a76-24a0-4427-a239-9571887185e4")
 	)
 	(no_connect
-		(at 128.27 147.32)
+		(at 175.26 147.32)
 		(uuid "a480d18a-ea04-4312-968e-3f4d265b69c0")
 	)
 	(no_connect
@@ -4243,48 +3348,24 @@
 		(uuid "b183fb51-8c78-49d5-b5f0-00b13a1079a8")
 	)
 	(no_connect
-		(at 167.64 147.32)
-		(uuid "b9bc2276-57fc-48ae-afd7-f132a7461304")
-	)
-	(no_connect
 		(at 92.71 35.56)
 		(uuid "bb93316b-a3a9-40ba-82a1-b9182fff10c5")
 	)
 	(no_connect
-		(at 95.25 184.15)
-		(uuid "bd866b53-8a58-4040-82bb-f729a1f92a65")
-	)
-	(no_connect
-		(at 87.63 149.86)
+		(at 134.62 149.86)
 		(uuid "cba33370-988e-4c92-a501-3b7824ee5536")
-	)
-	(no_connect
-		(at 85.09 184.15)
-		(uuid "dd9e4bda-e70e-41f2-80d7-849493e8a5b1")
-	)
-	(no_connect
-		(at 207.01 152.4)
-		(uuid "e1e8150c-1385-45c8-ac58-bd8e71b9b5ed")
 	)
 	(no_connect
 		(at 62.23 66.04)
 		(uuid "e2a4e618-c880-4d33-802f-331330e0a86b")
 	)
 	(no_connect
-		(at 167.64 149.86)
-		(uuid "eef15a1d-b36e-4ed4-8c70-842f01754bb0")
-	)
-	(no_connect
 		(at 62.23 77.47)
 		(uuid "efa0c903-46e9-4c39-b171-5bb92242578c")
 	)
-	(no_connect
-		(at 207.01 144.78)
-		(uuid "f6330437-1166-4717-af9d-59acb852e9ea")
-	)
 	(wire
 		(pts
-			(xy 24.13 123.19) (xy 29.21 123.19)
+			(xy 62.23 124.46) (xy 67.31 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4301,16 +3382,6 @@
 			(type default)
 		)
 		(uuid "10247ba7-afe0-4d33-bd9a-d931c1a67087")
-	)
-	(wire
-		(pts
-			(xy 96.52 123.19) (xy 100.33 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16a3a22b-e835-4523-8178-b60403194ae6")
 	)
 	(wire
 		(pts
@@ -4331,16 +3402,6 @@
 			(type default)
 		)
 		(uuid "1ccdf26e-4465-4bd2-be28-530f72152853")
-	)
-	(wire
-		(pts
-			(xy 96.52 118.11) (xy 100.33 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dc8fddf-38b9-4b82-a838-2572784f691c")
 	)
 	(wire
 		(pts
@@ -4454,7 +3515,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 120.65) (xy 29.21 120.65)
+			(xy 62.23 121.92) (xy 67.31 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4574,16 +3635,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 120.65) (xy 134.62 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f0457cb-667c-41cc-b6fe-d8532a5105b8")
-	)
-	(wire
-		(pts
 			(xy 224.79 82.55) (xy 224.79 68.58)
 		)
 		(stroke
@@ -4634,7 +3685,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 144.78) (xy 87.63 144.78)
+			(xy 129.54 144.78) (xy 134.62 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4724,7 +3775,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 115.57) (xy 64.77 115.57)
+			(xy 99.06 116.84) (xy 102.87 116.84)
 		)
 		(stroke
 			(width 0)
@@ -4741,6 +3792,16 @@
 			(type default)
 		)
 		(uuid "8dabde46-7fdf-4c04-a8b8-24a649e0541a")
+	)
+	(wire
+		(pts
+			(xy 68.58 182.88) (xy 76.2 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e157ac3-3fe7-49c7-892c-d35066cf6c9b")
 	)
 	(wire
 		(pts
@@ -4842,16 +3903,6 @@
 		)
 		(uuid "a352735d-be1b-4a71-bdc5-3e8167323271")
 	)
-	(wire
-		(pts
-			(xy 130.81 118.11) (xy 134.62 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa41d71f-108a-48b2-af8c-2f626d1be591")
-	)
 	(polyline
 		(pts
 			(xy 160.02 30.48) (xy 160.02 22.86)
@@ -4874,7 +3925,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 123.19) (xy 64.77 123.19)
+			(xy 99.06 124.46) (xy 102.87 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4914,16 +3965,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 120.65) (xy 100.33 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bac77f71-3204-4a95-89db-75a11c31a985")
-	)
-	(wire
-		(pts
 			(xy 218.44 66.04) (xy 248.92 66.04)
 		)
 		(stroke
@@ -4954,13 +3995,13 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 115.57) (xy 100.33 115.57)
+			(xy 105.41 182.88) (xy 111.76 182.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bde7f96d-e367-49f0-8f7a-c842f2166095")
+		(uuid "be6a5022-5b52-436b-a325-c3e439d6155e")
 	)
 	(polyline
 		(pts
@@ -4971,16 +4012,6 @@
 			(type default)
 		)
 		(uuid "bf29df60-cd73-4f2f-8fe3-bed5c31c9cdb")
-	)
-	(wire
-		(pts
-			(xy 130.81 115.57) (xy 134.62 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c40f43d3-32a5-410f-8eaf-d6397ba290e9")
 	)
 	(polyline
 		(pts
@@ -4994,17 +4025,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 123.19) (xy 134.62 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cbcaeafa-e4f2-43a5-ad39-87a50a8e946e")
-	)
-	(wire
-		(pts
-			(xy 60.96 118.11) (xy 64.77 118.11)
+			(xy 99.06 119.38) (xy 102.87 119.38)
 		)
 		(stroke
 			(width 0)
@@ -5054,7 +4075,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 115.57) (xy 29.21 115.57)
+			(xy 62.23 116.84) (xy 67.31 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5094,7 +4115,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 120.65) (xy 64.77 120.65)
+			(xy 99.06 121.92) (xy 102.87 121.92)
 		)
 		(stroke
 			(width 0)
@@ -5134,7 +4155,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 118.11) (xy 29.21 118.11)
+			(xy 60.96 119.38) (xy 67.31 119.38)
 		)
 		(stroke
 			(width 0)
@@ -5144,7 +4165,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 147.32) (xy 87.63 147.32)
+			(xy 129.54 147.32) (xy 134.62 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5206,7 +4227,7 @@
 	)
 	(global_label "BAT+"
 		(shape input)
-		(at 24.13 115.57 180)
+		(at 62.23 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5216,7 +4237,29 @@
 		)
 		(uuid "141f5c5a-ca13-4349-8acb-7a2af82d1dbc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.2462 115.57 0)
+			(at 54.3462 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PROBE_BACK"
+		(shape input)
+		(at 68.58 182.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "255c1fbc-c035-4e6b-98b5-0f0001465324")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.4391 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5288,6 +4331,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PROBE_FRONT"
+		(shape input)
+		(at 111.76 182.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64db7d98-7bbb-49db-9a91-be5c1ed80815")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127.9895 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5447,120 +4512,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom:2.54-1*4P母")
-		(at 139.7 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "06e87bc1-f349-4b75-8eb6-0a727b2838ac")
-		(property "Reference" "H4"
-			(at 143.51 117.4749 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.54-1*4P母"
-			(at 143.51 121.2849 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-F"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C2718488.html"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "2.54-1*4P母"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "BOOMELE(博穆精密)"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C2718488"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 139.7 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f8105a81-b248-4892-ac87-898489691dc6")
-		)
-		(pin "3"
-			(uuid "35d0fd68-0b18-457d-9b9a-5953cd59ac00")
-		)
-		(pin "2"
-			(uuid "5aba91e7-2b52-4d4a-9d2b-7e179b989154")
-		)
-		(pin "4"
-			(uuid "3f6181b1-6e3e-4a5a-9903-0a864fed1994")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 31.75 95.25 0)
 		(unit 1)
@@ -5628,74 +4579,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 96.52 123.19 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e0792a3-90f3-494a-b511-9b49210002e2")
-		(property "Reference" "#PWR015"
-			(at 90.17 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 123.1899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e17f8cf4-990d-4d4e-8ef7-eb6b5eccefd4")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 60.96 123.19 270)
+		(at 99.06 124.46 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5704,7 +4588,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f2487e4-8bd9-48b7-b0dd-5bcba946146a")
 		(property "Reference" "#PWR023"
-			(at 54.61 123.19 0)
+			(at 92.71 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5713,7 +4597,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 123.1899 90)
+			(at 95.25 124.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5722,7 +4606,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 123.19 0)
+			(at 99.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5731,7 +4615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 123.19 0)
+			(at 99.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5740,7 +4624,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 123.19 0)
+			(at 99.06 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5763,7 +4647,7 @@
 	(symbol
 		(lib_name "PZ254V-11-04P_C2691448_1")
 		(lib_id "Custom:PZ254V-11-04P_C2691448")
-		(at 92.71 148.59 0)
+		(at 139.7 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5772,7 +4656,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f730509-172f-44fd-af52-778183b83d85")
 		(property "Reference" "H5"
-			(at 96.52 146.6849 0)
+			(at 143.51 146.6849 0)
 			(effects
 				(font
 					(face "Arial")
@@ -5782,7 +4666,7 @@
 			)
 		)
 		(property "Value" "PZ254V-11-04P_C2691448"
-			(at 96.52 150.4949 0)
+			(at 143.51 150.4949 0)
 			(effects
 				(font
 					(face "Arial")
@@ -5792,7 +4676,7 @@
 			)
 		)
 		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-M"
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5801,7 +4685,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C2691448.html"
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5810,7 +4694,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5819,7 +4703,7 @@
 			)
 		)
 		(property "Manufacturer Part" "PZ254V-11-04P"
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5828,7 +4712,7 @@
 			)
 		)
 		(property "Manufacturer" "XFCN(兴飞)"
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5837,7 +4721,7 @@
 			)
 		)
 		(property "Supplier Part" "C2691448"
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5846,7 +4730,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 92.71 148.59 0)
+			(at 139.7 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6152,74 +5036,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 96.52 120.65 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1bd5ce66-56b6-4268-bc79-3c35aa032fe2")
-		(property "Reference" "#PWR014"
-			(at 90.17 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 120.6499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec412d67-5478-4bb5-92a7-3d3e71faf6da")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 60.96 120.65 270)
+		(at 99.06 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6228,7 +5045,7 @@
 		(fields_autoplaced yes)
 		(uuid "239f3c8d-c986-4b7e-a8f1-8fb79da1a644")
 		(property "Reference" "#PWR022"
-			(at 54.61 120.65 0)
+			(at 92.71 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6237,7 +5054,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 120.6499 90)
+			(at 95.25 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6246,7 +5063,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 120.65 0)
+			(at 99.06 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6255,7 +5072,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 120.65 0)
+			(at 99.06 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6264,7 +5081,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 120.65 0)
+			(at 99.06 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6279,188 +5096,6 @@
 			(project "TerraBlade-Sensor-PCB"
 				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "2.54-1*4P母_2")
-		(lib_id "Custom:2.54-1*4P母")
-		(at 105.41 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2f6091fa-e4d9-4e4c-acd5-9f656f7e06be")
-		(property "Reference" "H3"
-			(at 109.22 117.4749 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.54-1*4P母"
-			(at 109.22 121.2849 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-F"
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C2718488.html"
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "2.54-1*4P母"
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "BOOMELE(博穆精密)"
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C2718488"
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 105.41 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d8972d6c-1c90-4de0-8d4e-aa34d1992868")
-		)
-		(pin "3"
-			(uuid "a3892e4a-a73e-40c5-8959-ec5c4e2b5d5e")
-		)
-		(pin "2"
-			(uuid "ddece1eb-4488-4c4a-ba3c-546d8423735e")
-		)
-		(pin "4"
-			(uuid "571e7e39-71cf-470f-9a49-0c79ac5ebc33")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 96.52 118.11 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "34a69bd1-80c6-4c04-9bb3-d42481bc0bf9")
-		(property "Reference" "#PWR013"
-			(at 90.17 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 118.1099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "658a5ca4-9f3f-4ab0-9c92-f5975ed304ff")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -6602,7 +5237,7 @@
 	(symbol
 		(lib_name "2.54-1*4P母_1")
 		(lib_id "Custom:2.54-1*4P母")
-		(at 34.29 119.38 0)
+		(at 72.39 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6611,7 +5246,7 @@
 		(fields_autoplaced yes)
 		(uuid "49078757-822c-4a82-b5e5-f1b88856dc5b")
 		(property "Reference" "H1"
-			(at 38.1 117.4749 0)
+			(at 76.2 118.7449 0)
 			(effects
 				(font
 					(face "Arial")
@@ -6621,7 +5256,7 @@
 			)
 		)
 		(property "Value" "2.54-1*4P母"
-			(at 38.1 121.2849 0)
+			(at 76.2 122.5549 0)
 			(effects
 				(font
 					(face "Arial")
@@ -6631,7 +5266,7 @@
 			)
 		)
 		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-F"
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6640,7 +5275,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C2718488.html"
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6649,7 +5284,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6658,7 +5293,7 @@
 			)
 		)
 		(property "Manufacturer Part" "2.54-1*4P母"
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6667,7 +5302,7 @@
 			)
 		)
 		(property "Manufacturer" "BOOMELE(博穆精密)"
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +5311,7 @@
 			)
 		)
 		(property "Supplier Part" "C2718488"
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6685,7 +5320,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 34.29 119.38 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6997,7 +5632,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 24.13 123.19 270)
+		(at 62.23 124.46 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7006,7 +5641,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c60943d-7383-4988-b050-3d23564b44c9")
 		(property "Reference" "#PWR011"
-			(at 17.78 123.19 0)
+			(at 55.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7015,7 +5650,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 20.32 123.1899 90)
+			(at 58.42 124.4599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7024,7 +5659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 123.19 0)
+			(at 62.23 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7033,7 +5668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 123.19 0)
+			(at 62.23 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7042,7 +5677,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 24.13 123.19 0)
+			(at 62.23 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7123,187 +5758,6 @@
 			(project ""
 				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 96.52 115.57 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "721a8cb5-b1ab-486f-849e-be745b156f6e")
-		(property "Reference" "#PWR012"
-			(at 90.17 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 92.71 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9c4de369-a98d-4582-8277-26740ab8dd1c")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Custom:PZ254V-11-04P_C2691448")
-		(at 212.09 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "81b1c590-91c4-4687-9b45-1960ed0dd01f")
-		(property "Reference" "H8"
-			(at 215.9 146.6849 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PZ254V-11-04P_C2691448"
-			(at 215.9 150.4949 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-M"
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C2691448.html"
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "PZ254V-11-04P"
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "XFCN(兴飞)"
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C2691448"
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 212.09 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ace27e0-6b80-4d38-b937-7bb19dd88351")
-		)
-		(pin "3"
-			(uuid "69b6ea78-c691-4b94-a111-c6ce5453f8c3")
-		)
-		(pin "4"
-			(uuid "7011e2ba-caa3-4326-a2bf-83edf3898cbb")
-		)
-		(pin "2"
-			(uuid "b130d585-8447-4b14-aff0-39811fda2570")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "H8")
 					(unit 1)
 				)
 			)
@@ -7445,7 +5899,7 @@
 	(symbol
 		(lib_name "2.54-1*4P母_3")
 		(lib_id "Custom:2.54-1*4P母")
-		(at 69.85 119.38 0)
+		(at 107.95 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7454,7 +5908,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f621cd8-0dcb-4552-b3fa-62cbf77c1ef3")
 		(property "Reference" "H2"
-			(at 73.66 117.4749 0)
+			(at 111.76 118.7449 0)
 			(effects
 				(font
 					(face "Arial")
@@ -7464,7 +5918,7 @@
 			)
 		)
 		(property "Value" "2.54-1*4P母"
-			(at 73.66 121.2849 0)
+			(at 111.76 122.5549 0)
 			(effects
 				(font
 					(face "Arial")
@@ -7474,7 +5928,7 @@
 			)
 		)
 		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-F"
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7483,7 +5937,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C2718488.html"
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7492,7 +5946,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7501,7 +5955,7 @@
 			)
 		)
 		(property "Manufacturer Part" "2.54-1*4P母"
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7510,7 +5964,7 @@
 			)
 		)
 		(property "Manufacturer" "BOOMELE(博穆精密)"
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7519,7 +5973,7 @@
 			)
 		)
 		(property "Supplier Part" "C2718488"
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7528,7 +5982,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 69.85 119.38 0)
+			(at 107.95 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7664,148 +6118,33 @@
 		)
 	)
 	(symbol
-		(lib_name "PZ254V-11-04P_C2691448_2")
-		(lib_id "Custom:PZ254V-11-04P_C2691448")
-		(at 172.72 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3a4f726-53a1-43f0-8e0a-69866bf07253")
-		(property "Reference" "H7"
-			(at 176.53 146.6849 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PZ254V-11-04P_C2691448"
-			(at 176.53 150.4949 0)
-			(effects
-				(font
-					(face "Arial")
-					(size 1.6891 1.6891)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-M"
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C2691448.html"
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "PZ254V-11-04P"
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "XFCN(兴飞)"
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C2691448"
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 172.72 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f9b06a51-3fba-42a5-a0b7-a912aa0657ab")
-		)
-		(pin "3"
-			(uuid "0ec14af9-d239-4241-90e1-b1ebe810d82f")
-		)
-		(pin "4"
-			(uuid "45c4bb0d-b06d-45c5-808c-1558e6e4459d")
-		)
-		(pin "2"
-			(uuid "7d716d1f-04fd-4052-b3d8-d823910fff08")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "H7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SensorBlade:SensorBlade")
-		(at 90.17 184.15 0)
+		(lib_id "Custom:BladePad")
+		(at 102.87 182.88 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b3dc18c1-a0b6-4915-a931-658d72353c22")
-		(property "Reference" "BLADE1"
-			(at 90.17 176.53 0)
+		(uuid "b3365ae0-cb7f-4c5e-9a59-9ae63f44f311")
+		(property "Reference" "PAD5"
+			(at 102.87 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SensorBlade"
-			(at 90.17 179.07 0)
+		(property "Value" "BladePad"
+			(at 102.87 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "SensorBlade:SensorBlade_Tenon"
-			(at 90.17 184.15 0)
+		(property "Footprint" "Custom:BladePad_SMD"
+			(at 102.87 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7814,7 +6153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 184.15 0)
+			(at 102.87 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7822,8 +6161,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Capacitive Soil Moisture Blade"
-			(at 90.17 184.15 0)
+		(property "Description" "Single SMD pad for Mortise and Tenon joint"
+			(at 102.87 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7832,15 +6171,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "dfbfa6d3-48d9-4d87-b263-92012278e268")
-		)
-		(pin "2"
-			(uuid "d8d9cead-8858-4ec1-b90b-322ffd9939ce")
+			(uuid "0d4dc901-8399-4d10-bc14-59a7791e3d99")
 		)
 		(instances
-			(project ""
+			(project "TerraBlade-Sensor-PCB"
 				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "BLADE1")
+					(reference "PAD5")
 					(unit 1)
 				)
 			)
@@ -8232,7 +6568,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 60.96 115.57 270)
+		(at 99.06 116.84 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8241,7 +6577,7 @@
 		(fields_autoplaced yes)
 		(uuid "c00494f9-ff79-4490-a3b8-24c0da543713")
 		(property "Reference" "#PWR020"
-			(at 54.61 115.57 0)
+			(at 92.71 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8250,7 +6586,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 115.5699 90)
+			(at 95.25 116.8399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8259,7 +6595,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 115.57 0)
+			(at 99.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8268,7 +6604,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 115.57 0)
+			(at 99.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8277,7 +6613,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 115.57 0)
+			(at 99.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8299,7 +6635,7 @@
 	)
 	(symbol
 		(lib_id "Custom:BladePad")
-		(at 80.01 147.32 180)
+		(at 127 147.32 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8307,7 +6643,7 @@
 		(dnp no)
 		(uuid "c060e541-cd25-4495-8b45-659032dea4c3")
 		(property "Reference" "PAD4"
-			(at 78.74 148.5901 0)
+			(at 125.73 148.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8316,7 +6652,7 @@
 			)
 		)
 		(property "Value" "PowerPad-"
-			(at 78.74 146.0501 0)
+			(at 125.73 146.0501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8325,7 +6661,7 @@
 			)
 		)
 		(property "Footprint" "Custom:BladePad_SMD"
-			(at 80.01 147.32 0)
+			(at 127 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8334,7 +6670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 147.32 0)
+			(at 127 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8343,7 +6679,7 @@
 			)
 		)
 		(property "Description" "Single SMD pad for Mortise and Tenon joint"
-			(at 80.01 147.32 0)
+			(at 127 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8701,73 +7037,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 115.57 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cae201ab-2597-4410-b7e9-cf85cc28d2d0")
-		(property "Reference" "#PWR016"
-			(at 124.46 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 127 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1a670534-1f8c-43ff-a3f3-8e85442028c2")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 115.57 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8835,7 +7104,7 @@
 	)
 	(symbol
 		(lib_id "Custom:BladePad")
-		(at 80.01 144.78 180)
+		(at 127 144.78 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8844,7 +7113,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1055b0f-d2f0-4149-b9bf-993d13851a89")
 		(property "Reference" "PAD3"
-			(at 80.01 139.7 0)
+			(at 127 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8852,7 +7121,7 @@
 			)
 		)
 		(property "Value" "PowerPad+"
-			(at 80.01 142.24 0)
+			(at 127 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8860,7 +7129,7 @@
 			)
 		)
 		(property "Footprint" "Custom:BladePad_SMD"
-			(at 80.01 144.78 0)
+			(at 127 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8869,7 +7138,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 144.78 0)
+			(at 127 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8878,7 +7147,7 @@
 			)
 		)
 		(property "Description" "Single SMD pad for Mortise and Tenon joint"
-			(at 80.01 144.78 0)
+			(at 127 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8978,7 +7247,7 @@
 	(symbol
 		(lib_name "PZ254V-11-04P_C2691448_3")
 		(lib_id "Custom:PZ254V-11-04P_C2691448")
-		(at 133.35 148.59 0)
+		(at 180.34 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8987,7 +7256,7 @@
 		(fields_autoplaced yes)
 		(uuid "d42ec922-a114-42fb-8c41-3a9d6df5521b")
 		(property "Reference" "H6"
-			(at 137.16 146.6849 0)
+			(at 184.15 146.6849 0)
 			(effects
 				(font
 					(face "Arial")
@@ -8997,7 +7266,7 @@
 			)
 		)
 		(property "Value" "PZ254V-11-04P_C2691448"
-			(at 137.16 150.4949 0)
+			(at 184.15 150.4949 0)
 			(effects
 				(font
 					(face "Arial")
@@ -9007,7 +7276,7 @@
 			)
 		)
 		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-M"
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9016,7 +7285,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C2691448.html"
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9025,7 +7294,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9034,7 +7303,7 @@
 			)
 		)
 		(property "Manufacturer Part" "PZ254V-11-04P"
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9043,7 +7312,7 @@
 			)
 		)
 		(property "Manufacturer" "XFCN(兴飞)"
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9052,7 +7321,7 @@
 			)
 		)
 		(property "Supplier Part" "C2691448"
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9061,7 +7330,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 133.35 148.59 0)
+			(at 180.34 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9092,7 +7361,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.86 118.11 270)
+		(at 60.96 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9101,7 +7370,7 @@
 		(fields_autoplaced yes)
 		(uuid "d55e7e2d-3c56-4982-a249-34e27bf8536a")
 		(property "Reference" "#PWR026"
-			(at 16.51 118.11 0)
+			(at 54.61 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9110,7 +7379,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.1359 118.1099 90)
+			(at 57.2359 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9119,7 +7388,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.86 118.11 0)
+			(at 60.96 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9128,7 +7397,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.86 118.11 0)
+			(at 60.96 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9137,7 +7406,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 118.11 0)
+			(at 60.96 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9159,74 +7428,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 120.65 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0fa9c23-6000-4454-a8c5-ac46eb982ba0")
-		(property "Reference" "#PWR018"
-			(at 124.46 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 127 120.6499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "54932f4c-8d56-4645-a0dd-ffd0b36fbf0a")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 60.96 118.11 270)
+		(at 99.06 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9235,7 +7437,7 @@
 		(fields_autoplaced yes)
 		(uuid "e27b7d41-8cde-462d-872a-1280ee39ea86")
 		(property "Reference" "#PWR021"
-			(at 54.61 118.11 0)
+			(at 92.71 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9244,7 +7446,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 118.1099 90)
+			(at 95.25 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9253,7 +7455,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 118.11 0)
+			(at 99.06 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9262,7 +7464,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 118.11 0)
+			(at 99.06 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9271,7 +7473,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 118.11 0)
+			(at 99.06 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9358,35 +7560,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 130.81 118.11 270)
+		(lib_id "Custom:BladePad")
+		(at 78.74 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f168fd92-ccd5-4999-99aa-618a82a29eff")
-		(property "Reference" "#PWR017"
-			(at 124.46 118.11 0)
+		(uuid "ec425908-18ff-4408-b97e-f573c9b2206b")
+		(property "Reference" "PAD6"
+			(at 80.01 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "GND"
-			(at 127 118.1099 90)
+		(property "Value" "BladePad"
+			(at 80.01 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 130.81 118.11 0)
+		(property "Footprint" "Custom:BladePad_SMD"
+			(at 78.74 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9395,7 +7597,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 118.11 0)
+			(at 78.74 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9403,75 +7605,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "39752954-f49e-46ef-a0e9-c844e4fe44d2")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 130.81 123.19 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f47786ec-13f2-4bf9-ac15-37b3b6e50e0e")
-		(property "Reference" "#PWR019"
-			(at 124.46 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 127 123.1899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 123.19 0)
+		(property "Description" "Single SMD pad for Mortise and Tenon joint"
+			(at 78.74 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9480,12 +7615,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e35bec46-03a0-4941-ac60-f677f5367632")
+			(uuid "b9f11bfb-e927-4161-9f95-247fbe59d2a2")
 		)
 		(instances
 			(project "TerraBlade-Sensor-PCB"
 				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "#PWR019")
+					(reference "PAD6")
 					(unit 1)
 				)
 			)
@@ -9493,7 +7628,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 24.13 120.65 270)
+		(at 62.23 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9502,7 +7637,7 @@
 		(fields_autoplaced yes)
 		(uuid "f700aca7-da68-4b4a-b9fe-d59983564adb")
 		(property "Reference" "#PWR010"
-			(at 17.78 120.65 0)
+			(at 55.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9511,7 +7646,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 20.32 120.6499 90)
+			(at 58.42 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9520,7 +7655,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9529,7 +7664,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9538,7 +7673,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 24.13 120.65 0)
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
