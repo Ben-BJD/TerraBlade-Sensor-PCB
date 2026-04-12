@@ -1,0 +1,16 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Supplier Part
+C1,1,0.1uF 50V 10%,,,,easyeda2kicad:C0805,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_C0805B104K500NT_C476766.html,C476766
+C2,1,10nF,,,,Custom:C0805,https://www.lcsc.com/product-detail/C83170.html,C83170
+CN3,1,PowerPad+,,,,Custom:TESTPOINT-SMD_BD2.0-D1.0-Custom,https://www.lcsc.com/product-detail/C49451494.html,C49451494
+CN4,1,PowerPad-,,,,Custom:TESTPOINT-SMD_BD2.0-D1.0-Custom,https://www.lcsc.com/product-detail/C49451494.html,C49451494
+"H1,H2",2,2.54-1*4P母,,,,Custom:HDR-TH_4P-P2.54-V-F,https://www.lcsc.com/product-detail/C2718488.html,C2718488
+"H5,H6",2,PZ254V-11-04P_C2691448,,,,Custom:HDR-TH_4P-P2.54-V-M,https://www.lcsc.com/product-detail/C2691448.html,C2691448
+LED1,1,TZ-P2-0805YGTCS2-0.8T,,,,Custom:LED0805-R-RD_GREEN,https://www.lcsc.com/product-detail/C688885.html,C688885
+"PAD1,PAD2,PAD5,PAD6",4,BladePad,,Excluded from BOM,,Custom:BladePad_SMD,,
+R1,1,1kΩ,,,,Custom:R0805,https://www.lcsc.com/product-detail/C2907295.html,C2907295
+"R2,R5",2,10K 1%,,,,easyeda2kicad:R0805,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C17414.html,C17414
+"R3,R4",2,220kΩ,,,,Custom:R0805,https://www.lcsc.com/product-detail/C17556.html,C17556
+R6,1,100kΩ,,,,Custom:R0805,https://www.lcsc.com/product-detail/C149504.html,C149504
+SW1,1,TS-1187A-B-A-B,,,,easyeda2kicad:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5,https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html,C318884
+U1,1,XIAO-ESP32-C3-SMD,,,,SEED:XIAO-ESP32-C3-SMD,https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/,
+U2,1,2.1MHz,,,,Custom:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,https://www.lcsc.com/product-detail/C6987.html,C6987

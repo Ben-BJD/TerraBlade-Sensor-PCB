@@ -1061,6 +1061,139 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Custom:PG1000-01-010P"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CN1"
+				(at -2.6162 7.3025 0)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.6891 1.6891)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "PG1000-01-010P"
+				(at -2.6162 4.9911 0)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.6891 1.6891)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "PG1000-01-010P"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "CHIN-BAN(勤本)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C49451494"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PG1000-01-010P_0_0"
+				(rectangle
+					(start -1.27 2.54)
+					(end 3.81 -2.54)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 1.27)
+					(radius 0.254)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "PG1000-01-010P_1_0"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Custom:TLC555IDR"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3238,10 +3371,34 @@
 		(uuid "c46ffc96-ddd9-4f39-8b36-78521b8e2ab9")
 	)
 	(junction
+		(at 175.26 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02779619-eb8a-4039-a9ff-0aa36bf3ad36")
+	)
+	(junction
+		(at 134.62 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03bcf134-b604-4d63-a76b-4d841108a4fc")
+	)
+	(junction
+		(at 124.46 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1802a832-be3e-4fff-863a-97b7a741dbd5")
+	)
+	(junction
 		(at 128.27 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27a88793-2543-426e-9899-c7f1c5c6e636")
+	)
+	(junction
+		(at 175.26 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e64603e-1faf-43f2-81e6-5b4d4d053ddd")
 	)
 	(junction
 		(at 224.79 68.58)
@@ -3268,6 +3425,30 @@
 		(uuid "60b3aad2-bb8f-4878-9f70-fe971cdb04b8")
 	)
 	(junction
+		(at 175.26 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "669b0ae0-b66d-490e-8278-e92887bdacea")
+	)
+	(junction
+		(at 127 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66ef0a7c-f0b3-40e8-9745-2feaf619a84f")
+	)
+	(junction
+		(at 175.26 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8ddb223-2cfe-4d51-aea5-18b67eb08776")
+	)
+	(junction
+		(at 134.62 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7afd733-a3d9-4253-9353-90dd54157841")
+	)
+	(junction
 		(at 111.76 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3278,10 +3459,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f39d84e5-12d7-435d-bb15-85d71d35e98b")
-	)
-	(no_connect
-		(at 175.26 152.4)
-		(uuid "0462a61c-7af6-442b-bbda-49fc40c1097b")
 	)
 	(no_connect
 		(at 104.14 54.61)
@@ -3298,18 +3475,6 @@
 	(no_connect
 		(at 73.66 35.56)
 		(uuid "4154aee6-5735-468e-b2fd-1bf24752cabd")
-	)
-	(no_connect
-		(at 175.26 149.86)
-		(uuid "4dc1dab6-a2ae-42b6-8992-e0390bccad45")
-	)
-	(no_connect
-		(at 175.26 144.78)
-		(uuid "5379477f-ec03-4df6-8198-791c748090da")
-	)
-	(no_connect
-		(at 134.62 152.4)
-		(uuid "685fbfca-9b34-4c08-b3f5-6846b4eb1b23")
 	)
 	(no_connect
 		(at 104.14 77.47)
@@ -3332,10 +3497,6 @@
 		(uuid "a2580a76-24a0-4427-a239-9571887185e4")
 	)
 	(no_connect
-		(at 175.26 147.32)
-		(uuid "a480d18a-ea04-4312-968e-3f4d265b69c0")
-	)
-	(no_connect
 		(at 88.9 35.56)
 		(uuid "aec13e46-ef5c-45c2-841a-6e56ec72200b")
 	)
@@ -3352,16 +3513,22 @@
 		(uuid "bb93316b-a3a9-40ba-82a1-b9182fff10c5")
 	)
 	(no_connect
-		(at 134.62 149.86)
-		(uuid "cba33370-988e-4c92-a501-3b7824ee5536")
-	)
-	(no_connect
 		(at 62.23 66.04)
 		(uuid "e2a4e618-c880-4d33-802f-331330e0a86b")
 	)
 	(no_connect
 		(at 62.23 77.47)
 		(uuid "efa0c903-46e9-4c39-b171-5bb92242578c")
+	)
+	(wire
+		(pts
+			(xy 134.62 151.13) (xy 134.62 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03cc71e5-c5a6-4b52-b59d-600cd1c2a1ab")
 	)
 	(wire
 		(pts
@@ -3455,6 +3622,26 @@
 	)
 	(wire
 		(pts
+			(xy 127 152.4) (xy 129.54 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "342bc52c-7bd8-4926-944c-8707bf644477")
+	)
+	(wire
+		(pts
+			(xy 175.26 151.13) (xy 175.26 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "363d1d61-bc50-4c6b-b519-407cba0952c7")
+	)
+	(wire
+		(pts
 			(xy 104.14 69.85) (xy 107.95 69.85)
 		)
 		(stroke
@@ -3495,6 +3682,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 143.51) (xy 175.26 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42c401ac-ec1b-49e7-b8ee-7eb6c8dfbd21")
+	)
+	(wire
+		(pts
 			(xy 25.4 72.39) (xy 17.78 72.39)
 		)
 		(stroke
@@ -3522,6 +3719,16 @@
 			(type default)
 		)
 		(uuid "4ceed7bd-5e18-44e1-8bbd-876cdcc89974")
+	)
+	(wire
+		(pts
+			(xy 175.26 148.59) (xy 175.26 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "548ad93d-169f-43c5-a8fa-b702fc489f52")
 	)
 	(wire
 		(pts
@@ -3673,6 +3880,16 @@
 		)
 		(uuid "710c013a-87e8-4267-be13-ded0793783f4")
 	)
+	(wire
+		(pts
+			(xy 124.46 142.24) (xy 129.54 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f8a820-5d4e-4a38-85dd-7e48121a6092")
+	)
 	(polyline
 		(pts
 			(xy 284.48 156.21) (xy 284.48 157.48)
@@ -3685,7 +3902,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 144.78) (xy 134.62 144.78)
+			(xy 129.54 143.51) (xy 134.62 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3712,6 +3929,16 @@
 			(type default)
 		)
 		(uuid "7b58b54d-b8eb-43d3-a378-34b1ea336c10")
+	)
+	(wire
+		(pts
+			(xy 129.54 143.51) (xy 129.54 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cfae012-bd68-479d-87b2-6c3b18921d7b")
 	)
 	(polyline
 		(pts
@@ -3765,6 +3992,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 154.94) (xy 127 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "867dcb88-c9e4-4cf8-9d50-fa08d207d024")
+	)
+	(wire
+		(pts
 			(xy 31.75 54.61) (xy 38.1 54.61)
 		)
 		(stroke
@@ -3772,6 +4009,16 @@
 			(type default)
 		)
 		(uuid "8950b5b0-51b0-4b2c-9c5d-65b538f510ad")
+	)
+	(wire
+		(pts
+			(xy 134.62 148.59) (xy 134.62 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89ac3756-7fb0-40ea-ac90-172c815ae8e3")
 	)
 	(wire
 		(pts
@@ -3903,6 +4150,16 @@
 		)
 		(uuid "a352735d-be1b-4a71-bdc5-3e8167323271")
 	)
+	(wire
+		(pts
+			(xy 175.26 146.05) (xy 175.26 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab9e46c5-cfd7-482f-b2cc-cce3dda2070a")
+	)
 	(polyline
 		(pts
 			(xy 160.02 30.48) (xy 160.02 22.86)
@@ -3912,6 +4169,16 @@
 			(type default)
 		)
 		(uuid "aefa00a5-0beb-4a08-bb64-f51e485285d0")
+	)
+	(wire
+		(pts
+			(xy 123.19 152.4) (xy 127 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b08ff2de-f860-4549-9638-c0c0abe71782")
 	)
 	(polyline
 		(pts
@@ -3932,6 +4199,16 @@
 			(type default)
 		)
 		(uuid "b1c28cfd-4f3f-4a30-8efd-727fd96ba2f6")
+	)
+	(wire
+		(pts
+			(xy 175.26 154.94) (xy 134.62 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3afb83c-f488-4bc9-8c4d-913a6e562328")
 	)
 	(polyline
 		(pts
@@ -4115,6 +4392,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 152.4) (xy 129.54 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4fe44bd-fc62-421c-ab2c-04413e94ddf8")
+	)
+	(wire
+		(pts
 			(xy 99.06 121.92) (xy 102.87 121.92)
 		)
 		(stroke
@@ -4145,6 +4432,36 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 142.24) (xy 124.46 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb2651bd-051b-44e5-af3f-018d60ef7fad")
+	)
+	(wire
+		(pts
+			(xy 127 154.94) (xy 127 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecd8e1f2-a86e-489a-b26e-5a585e33a7c8")
+	)
+	(wire
+		(pts
+			(xy 193.04 154.94) (xy 175.26 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee76c58b-18ca-47ce-84ad-db0fcdae1357")
+	)
+	(wire
+		(pts
 			(xy 116.84 73.66) (xy 116.84 74.93)
 		)
 		(stroke
@@ -4165,7 +4482,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 147.32) (xy 134.62 147.32)
+			(xy 129.54 146.05) (xy 134.62 146.05)
 		)
 		(stroke
 			(width 0)
@@ -4195,6 +4512,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 134.62) (xy 124.46 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb2eb600-9350-44df-a174-9746fd62b606")
+	)
+	(wire
+		(pts
 			(xy 104.14 62.23) (xy 128.27 62.23)
 		)
 		(stroke
@@ -4202,6 +4529,28 @@
 			(type default)
 		)
 		(uuid "ff736c4b-220c-4309-91bf-6a78cd23ed4a")
+	)
+	(global_label "POWER_PAD_+"
+		(shape input)
+		(at 124.46 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0175a8c6-9c9d-46a8-b102-1844ed4e8ba0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.8677 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "ESP32_D10"
 		(shape input)
@@ -4304,6 +4653,28 @@
 		(uuid "52a05470-fecd-4922-ac8c-8c00b85e5475")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 173.99 43.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "POWER_PAD_-"
+		(shape input)
+		(at 193.04 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5f4d37bf-0806-4395-a973-f2bc40f1c747")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 209.6323 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4647,7 +5018,7 @@
 	(symbol
 		(lib_name "PZ254V-11-04P_C2691448_1")
 		(lib_id "Custom:PZ254V-11-04P_C2691448")
-		(at 139.7 148.59 0)
+		(at 139.7 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4656,7 +5027,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f730509-172f-44fd-af52-778183b83d85")
 		(property "Reference" "H5"
-			(at 143.51 146.6849 0)
+			(at 143.51 145.4149 0)
 			(effects
 				(font
 					(face "Arial")
@@ -4666,7 +5037,7 @@
 			)
 		)
 		(property "Value" "PZ254V-11-04P_C2691448"
-			(at 143.51 150.4949 0)
+			(at 143.51 149.2249 0)
 			(effects
 				(font
 					(face "Arial")
@@ -4676,7 +5047,7 @@
 			)
 		)
 		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-M"
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4685,7 +5056,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C2691448.html"
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4694,7 +5065,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4703,7 +5074,7 @@
 			)
 		)
 		(property "Manufacturer Part" "PZ254V-11-04P"
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4712,7 +5083,7 @@
 			)
 		)
 		(property "Manufacturer" "XFCN(兴飞)"
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4721,7 +5092,7 @@
 			)
 		)
 		(property "Supplier Part" "C2691448"
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4730,7 +5101,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 139.7 148.59 0)
+			(at 139.7 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,6 +5390,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier Part" "C476766"
+			(at 229.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68396e09-4fdd-48f7-8512-d320eda8089f")
 		)
@@ -5163,6 +5543,108 @@
 			(project ""
 				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
 					(reference "PAD1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Custom:PG1000-01-010P")
+		(at 119.38 152.4 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3f3bda94-0d3d-4905-8a2c-b5706cd23342")
+		(property "Reference" "CN4"
+			(at 104.394 149.352 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.6891 1.6891)
+				)
+			)
+		)
+		(property "Value" "PowerPad-"
+			(at 104.394 153.162 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.6891 1.6891)
+				)
+			)
+		)
+		(property "Footprint" "Custom:TESTPOINT-SMD_BD2.0-D1.0-Custom"
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C49451494.html"
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "PG1000-01-010P"
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CHIN-BAN(勤本)"
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C49451494"
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 119.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "064c89d4-c88e-4148-bb72-84c69dad308d")
+		)
+		(instances
+			(project "TerraBlade-Sensor-PCB"
+				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
+					(reference "CN4")
 					(unit 1)
 				)
 			)
@@ -6350,6 +6832,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier Part" "C17414"
+			(at 30.48 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1036bb47-8444-4a3d-a70a-7b012122b144")
 		)
@@ -6567,6 +7058,108 @@
 		)
 	)
 	(symbol
+		(lib_id "Custom:PG1000-01-010P")
+		(at 119.38 142.24 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bbaa63b1-244f-4f0a-999d-7a499c40efa5")
+		(property "Reference" "CN3"
+			(at 104.394 139.192 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.6891 1.6891)
+				)
+			)
+		)
+		(property "Value" "PowerPad+"
+			(at 104.394 143.002 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.6891 1.6891)
+				)
+			)
+		)
+		(property "Footprint" "Custom:TESTPOINT-SMD_BD2.0-D1.0-Custom"
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C49451494.html"
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "PG1000-01-010P"
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CHIN-BAN(勤本)"
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C49451494"
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 119.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b48b678-4452-4655-85cc-f51f1ebd26e7")
+		)
+		(instances
+			(project ""
+				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
+					(reference "CN3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 99.06 116.84 270)
 		(unit 1)
@@ -6628,72 +7221,6 @@
 			(project "TerraBlade-Sensor-PCB"
 				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
 					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Custom:BladePad")
-		(at 127 147.32 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "c060e541-cd25-4495-8b45-659032dea4c3")
-		(property "Reference" "PAD4"
-			(at 125.73 148.5901 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PowerPad-"
-			(at 125.73 146.0501 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom:BladePad_SMD"
-			(at 127 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single SMD pad for Mortise and Tenon joint"
-			(at 127 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "90bad253-2a87-4854-a280-b440158f10f8")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "PAD4")
 					(unit 1)
 				)
 			)
@@ -7103,71 +7630,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Custom:BladePad")
-		(at 127 144.78 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1055b0f-d2f0-4149-b9bf-993d13851a89")
-		(property "Reference" "PAD3"
-			(at 127 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PowerPad+"
-			(at 127 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Custom:BladePad_SMD"
-			(at 127 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single SMD pad for Mortise and Tenon joint"
-			(at 127 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1c11f77a-ba69-41bc-9fad-04aabf661caf")
-		)
-		(instances
-			(project "TerraBlade-Sensor-PCB"
-				(path "/8d6ce4e9-e3b6-4dd7-8ba8-a8bfc8973b00"
-					(reference "PAD3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "easyeda2kicad:0805W8F1002T5E")
 		(at 256.54 66.04 0)
 		(unit 1)
@@ -7229,6 +7691,15 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier Part" "C17414"
+			(at 256.54 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "48ea7cc2-ebf6-4767-8609-c0a8f954a185")
 		)
@@ -7247,7 +7718,7 @@
 	(symbol
 		(lib_name "PZ254V-11-04P_C2691448_3")
 		(lib_id "Custom:PZ254V-11-04P_C2691448")
-		(at 180.34 148.59 0)
+		(at 180.34 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7256,7 +7727,7 @@
 		(fields_autoplaced yes)
 		(uuid "d42ec922-a114-42fb-8c41-3a9d6df5521b")
 		(property "Reference" "H6"
-			(at 184.15 146.6849 0)
+			(at 184.15 145.4149 0)
 			(effects
 				(font
 					(face "Arial")
@@ -7266,7 +7737,7 @@
 			)
 		)
 		(property "Value" "PZ254V-11-04P_C2691448"
-			(at 184.15 150.4949 0)
+			(at 184.15 149.2249 0)
 			(effects
 				(font
 					(face "Arial")
@@ -7276,7 +7747,7 @@
 			)
 		)
 		(property "Footprint" "Custom:HDR-TH_4P-P2.54-V-M"
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7285,7 +7756,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C2691448.html"
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7294,7 +7765,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7774,7 @@
 			)
 		)
 		(property "Manufacturer Part" "PZ254V-11-04P"
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7312,7 +7783,7 @@
 			)
 		)
 		(property "Manufacturer" "XFCN(兴飞)"
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7321,7 +7792,7 @@
 			)
 		)
 		(property "Supplier Part" "C2691448"
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7330,7 +7801,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 180.34 148.59 0)
+			(at 180.34 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7815,6 +8286,15 @@
 		)
 		(property "LCSC Part" "C318884"
 			(at 22.86 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C318884"
+			(at 22.86 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
