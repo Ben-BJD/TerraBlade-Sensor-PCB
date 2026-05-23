@@ -1,7 +1,5 @@
 # 🌱 TerraBlade Sensor - Hardware PCB
 
-## Work In Progress: Est. Completion May/June 2026
-
 ![TerraBlade 3D Render](TerraBlade-Sensor-3D-View.png)
 
 **TerraBlade** is a professional-grade, ultra-low-power capacitive soil moisture sensor designed around the Seeed Studio XIAO ESP32-C3. 
