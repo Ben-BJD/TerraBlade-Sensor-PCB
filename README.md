@@ -1,6 +1,6 @@
 # 🌱 TerraBlade Sensor - Hardware PCB
 
-[![Read the Article](https://img.shields.io/badge/Read-Website_Article-blue?style=for-the-badge&logo=firefox)](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/from-breadboard-to-product-designing-a-low-power-iot-capacitive-soil-sensor-part-1)
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-YouTube_Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/hPaEr1QOUNo) [![Read the Article](https://img.shields.io/badge/Read-Website_Article-blue?style=for-the-badge&logo=firefox)](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/from-breadboard-to-product-designing-a-low-power-iot-capacitive-soil-sensor-part-1)
 
 [![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/TerraBlade_Ultra_Low_Power_Capacitive_Soil_Moisture_Sensor_8eaea9a2.html)
 
